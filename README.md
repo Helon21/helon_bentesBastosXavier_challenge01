@@ -9,3 +9,6 @@ D01 - 3º Checkpoint - Created a class "Tipos" and declarated all primitive type
 D02 - 4º Checkpoint - Created a class "Metodos"
 
 D02 - 5º and 6º Checkpoint - Created a method "metodoVoid", without return.
+
+D003 - 7º Checkpoint - Created a calculator class.
+

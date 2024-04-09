@@ -49,7 +49,7 @@ class D03ExercicioTest {
         }
         imprimir("[20] - Commit com a mensagem abaixo:");
         imprimir("[08] - feat: método soma.");
-        checkPoint("Checkpoint 08", false);
+        checkPoint("Checkpoint 08", true);
     }
 
     @Test
