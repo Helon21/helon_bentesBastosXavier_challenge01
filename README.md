@@ -12,3 +12,5 @@ D02 - 5º and 6º Checkpoint - Created a method "metodoVoid", without return.
 
 D003 - 7º Checkpoint - Created a calculator class.
 
+D004 - 8º Checkpoint - Created a method "soma" in the calculator class.
+

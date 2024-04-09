@@ -67,7 +67,7 @@ class D03ExercicioTest {
         }
         imprimir("[23] - Commit com a mensagem abaixo:");
         imprimir("[09] - feat: método subtração.");
-        checkPoint("Checkpoint 09", false);
+        checkPoint("Checkpoint 09", true);
     }
 
     @Test
