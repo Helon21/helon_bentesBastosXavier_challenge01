@@ -7,4 +7,17 @@ public class Calculadora {
         return soma;
     }
 
+    public Integer subtracao(String num, Integer num2) {
+        int sub = Integer.parseInt(num) - num2;
+        System.out.println(sub);
+        return sub;
+    }
+
+    public
+
+    public static void main(String[] args) {
+        Calculadora calc = new Calculadora();
+        calc.subtracao("6",3);
+    }
+
 }
