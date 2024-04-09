@@ -12,9 +12,7 @@ public class Calculadora {
         System.out.println(sub);
         return sub;
     }
-
-    public
-
+    
     public static void main(String[] args) {
         Calculadora calc = new Calculadora();
         calc.subtracao("6",3);
