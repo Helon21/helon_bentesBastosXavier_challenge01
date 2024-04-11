@@ -22,4 +22,4 @@ inside a new instance of "Resultado" class. And the second method "multiplicacao
 this method await a List like return, so, an instance of arraylist is created to store the variable resultado, and the result is added to the list,
 and finally return a type Resultado like a list.
 
-EXTRA - I'v created a Main class, to test my code. 
+The students Matheus from my CyberStorm group and Diogo Meneses from the other group, helped me understand question 3 
