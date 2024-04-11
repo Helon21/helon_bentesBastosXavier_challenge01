@@ -9,3 +9,17 @@ D01 - 3º Checkpoint - Created a class "Tipos" and declarated all primitive type
 D02 - 4º Checkpoint - Created a class "Metodos"
 
 D02 - 5º and 6º Checkpoint - Created a method "metodoVoid", without return.
+
+D003 - 7º Checkpoint - Created a calculator class.
+
+D003 - 8º Checkpoint - Created a method "soma" in the calculator class.
+
+D003 - 9º Checkpoint - Created a method "subtracao" in the calculator class.
+
+D003 - 10º Checkpoint - The first method "multiplicacao" is called with two arguments, an instance of "Multiplicador" and "Multiplicando",
+Inside the method, the attribute number, of each one "multiplicador" and "multiplicando", are multiplied and the result is returned like a Resultado type,
+inside a new instance of "Resultado" class. And the second method "multiplicacao" goes through the same process of the first method, but,
+this method await a List like return, so, an instance of arraylist is created to store the variable resultado, and the result is added to the list,
+and finally return a type Resultado like a list.
+
+EXTRA - I'v created a Main class, to test my code. 
